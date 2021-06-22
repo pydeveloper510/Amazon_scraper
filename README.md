@@ -33,4 +33,4 @@ This scraper only scrapes product from the first page of search results
 1. Run `python3 searchresults.py`
 1. Get data from [search_results_output.jsonl](search_results_output.jsonl)
 
-__  @ 2021 05 01 __
+__  @ 2021 06 19 __
